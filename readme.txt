@@ -30,6 +30,11 @@ For detailed installation instructions, please read the [standard installation p
 3. Done.
 
 
+== Screenshots ==
+
+1. Plugin settings page.
+
+
 == Changelog ==
 
 = 1.0 =
